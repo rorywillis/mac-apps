@@ -52,3 +52,107 @@ Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQ
 
 
 
+## Organization
+
+#### [Evernote](https://evernote.com/)
+
+Take notes anywhere. Find information faster. Share ideas with anyone. Meeting notes, web pages, projects, to-do lists—with Evernote as your note taking app, nothing falls through the cracks.
+
+**Cost**: FREE with restrictions - $8/month premium<br/>
+**Homebrew:** `brew cask install evernote`
+
+#### [Bear](https://bear.app/)
+
+Bear is a beautiful, flexible writing app for crafting notes and prose. Supports writing in markdown.
+
+**Cost**: FREE with restrictions - $15/yr premium<br/>
+
+#### [LastPass](https://www.lastpass.com/)
+
+LastPass remembers all your passwords across every device for free!
+
+**Cost**: FREE - Premium offers advanced features<br/>
+
+
+
+## Terminal/SSH 
+
+#### [iTerm 2](https://www.iterm2.com/)
+
+iTerm2 is a replacement for Terminal and the successor to iTerm. It works on Macs with macOS 10.12 or newer. iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
+**Cost**: FREE<br/>
+**Homebrew:** `brew cask install iterm2`
+
+#### [Termius](https://termius.com/)
+
+Clean SSH client that allows you to organize hosts into groups and easily reconnect.
+
+**Cost**: FREE<br/>
+**Homebrew:** `brew cask install termius`
+
+
+
+## Code Snippets
+
+#### [Lepton](https://hackjutsu.com/Lepton/)
+
+A Lean GitHub Gist Client. Allows you to organize, tag, and store snippets as github gists.
+
+**Cost**: FREE<br/>
+**Homebrew:** `brew cask install lepton`
+
+#### [SnippetsLab](https://www.renfei.org/snippets-lab/)
+
+A full-featured, professional code snippets manager. It helps you create your personal code library, keeps everything impeccably organized, and always at the ready for use.
+
+**Cost**: $10<br/>
+
+
+
+## API Testing & Development
+
+#### [Postman](https://www.postman.com/downloads/)
+
+A complete API development environment.
+
+**Cost**: FREE with restrictions - Paid plans available<br/>
+**Homebrew:** `brew cask install postman`
+
+
+
+
+## Utilities
+
+#### [Authy](https://authy.com/)
+
+Enable 2FA for your favorite sites accross multiple devices.
+
+**Cost**: FREE<br/>
+**Homebrew:** `brew cask install authy`
+
+#### [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
+
+Amphetamine can keep your Mac, and optionally its display, awake through a super simple on/off switch, or automatically through easy-to-configure Triggers.
+
+**Cost**: FREE<br/>
+
+#### [Gas Mask](http://clockwise.ee/)
+
+Clean and simple hosts file editor.
+
+**Cost**: FREE<br/>
+**Homebrew:** `brew cask install gas-mask`
+
+#### [Moom](https://manytricks.com/moom/)
+
+A highly configurable window manager.
+
+**Cost**: $10<br/>
+**Homebrew:** `brew cask install moom`
+
+#### [Paste](https://pasteapp.io/)
+
+A beautiful clipboard manager that seamlessly integrates into MacOS. The subscription model is not ideal, but there's nothing comparable right now unless you want to sacrifice functionality or integration into the OS.
+
+**Cost**: $10/year<br/>
